@@ -14,9 +14,21 @@ jobs:
 
     - name: download cidr
       run: |
-        chmod +x cn_cidr.sh
+        chmod +x ./cn_cidr.sh
         ./cn_cidr.sh
+
+    - name: Commit file
+      run: |
+        git config --global user.email simonsqiu@foxmail.com
+        git config --global user.name SimonsQiu
+        git add .
+        git commit -m "Update `date +%Y/%m/%d\ %H:%M:%S\ %Z`" -a
         
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
