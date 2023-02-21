@@ -8625,5 +8625,3 @@ add list=chn_list address=223.248.0.0/14
 add list=chn_list address=223.252.128.0/17
 add list=chn_list address=223.254.0.0/16
 add list=chn_list address=223.255.0.0/17
-add list=chn_list address=223.255.236.0/22
-add list=chn_list address=223.255.252.0/23
