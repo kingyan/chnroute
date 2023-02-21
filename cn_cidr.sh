@@ -5,7 +5,7 @@ cn_cidr_url="https://ispip.clang.cn/all_cn.txt"
 # ROS script name
 cn_cidr_rsc="./chn_list.rsc"
 # ROS firewall address list name
-address_list="chn_list"
+address_list="cnip"
 
 # Init script
 cat > $cn_cidr_rsc << EOF
@@ -27,4 +27,3 @@ add list=$address_list address=192.168.0.0/16 comment=private-network
 # # China addresses list
 EOF
 curl -fsSL $cn_cidr_url | sed "s#^#add list=$address_list address=#g" >> $cn_cidr_rsc
-
