@@ -27,3 +27,4 @@ add list=$address_list address=192.168.0.0/16 comment=private-network
 # # China addresses list
 EOF
 curl -fsSL $cn_cidr_url | sed "s#^#add list=$address_list address=#g" >> $cn_cidr_rsc
+
