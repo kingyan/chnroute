@@ -3,7 +3,7 @@
 # China IP list url
 cn_cidr_url="https://ispip.clang.cn/all_cn.txt"
 # ROS script name
-cn_cidr_rsc="chn_list.rsc"
+cn_cidr_rsc="./chn_list.rsc"
 # ROS firewall address list name
 address_list="chn_list"
 
