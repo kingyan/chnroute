@@ -16,11 +16,6 @@ jobs:
       run: |
         chmod +x ./cn_cidr.sh
         ./cn_cidr.sh
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{secrets.GITHUB_TOKEN}}
 
     - name: Commit & Push changes
       uses: actions-js/push@master
