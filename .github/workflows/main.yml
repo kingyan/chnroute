@@ -12,12 +12,18 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: download cidr
+    - name: Download CIDR
       run: |
-        chmod +x ./cn_cidr.sh
+        chmod +x cn_cidr.sh
         ./cn_cidr.sh
 
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Delete workflow runs
+      uses: GitRML/delete-workflow-runs@main
+      with:
+        retain_days: 1
+        keep_minimum_runs: 1
