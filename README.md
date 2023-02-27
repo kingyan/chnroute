@@ -9,7 +9,7 @@ ip段信息取自 [china-ip-list](https://ispip.clang.cn/all_cn.txt)
 **CN.rsc** 是往Firewall - address lists 里生ip段列表。
 ```
 /file remove [find name="chn_list.rsc"]
-/tool fetch url="https://cdn.jsdelivr.net/gh/kingyan/chnroute@main/chn_list.rsc"
+/tool fetch url="https://ghproxy.com/https://raw.githubusercontent.com/kingyan/chnroute/main/chn_list.rsc"
 :if ([:len [/file find name=chn_list.rsc]] > 0) do={
 /import chn_list.rsc
 :log info ([/file get chn_list.rsc contents])
