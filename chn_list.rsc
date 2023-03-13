@@ -1,4 +1,4 @@
-# Remove old address list
+# 20230313Remove old address list
 /ip firewall address-list
 :foreach i in=[ find list=cnip ] do={ remove number=$i }
 
