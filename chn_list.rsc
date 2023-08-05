@@ -2033,7 +2033,7 @@ add list=cnip address=103.11.16.0/22
 add list=cnip address=103.11.168.0/22
 add list=cnip address=103.11.180.0/22
 add list=cnip address=103.12.32.0/22
-add list=cnip address=103.12.68.0/22
+add list=cnip address=103.12.68.0/23
 add list=cnip address=103.12.92.0/22
 add list=cnip address=103.12.98.0/23
 add list=cnip address=103.12.136.0/22
@@ -6314,7 +6314,6 @@ add list=cnip address=163.53.164.0/22
 add list=cnip address=163.53.168.0/22
 add list=cnip address=163.53.172.0/22
 add list=cnip address=163.53.188.0/22
-add list=cnip address=163.53.220.0/22
 add list=cnip address=163.53.240.0/22
 add list=cnip address=163.125.0.0/16
 add list=cnip address=163.142.0.0/16
