@@ -6243,6 +6243,7 @@ add list=cnip address=157.66.70.0/23
 add list=cnip address=157.66.88.0/23
 add list=cnip address=157.66.90.0/23
 add list=cnip address=157.66.92.0/23
+add list=cnip address=157.66.94.0/23
 add list=cnip address=157.119.8.0/22
 add list=cnip address=157.119.12.0/22
 add list=cnip address=157.119.16.0/22
