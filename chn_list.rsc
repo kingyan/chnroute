@@ -3763,7 +3763,6 @@ add list=cnip address=103.126.124.0/22
 add list=cnip address=103.126.128.0/22
 add list=cnip address=103.126.132.0/22
 add list=cnip address=103.126.208.0/22
-add list=cnip address=103.129.52.0/22
 add list=cnip address=103.130.132.0/22
 add list=cnip address=103.130.152.0/24
 add list=cnip address=103.130.160.0/22
