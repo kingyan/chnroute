@@ -6332,6 +6332,7 @@ add list=cnip address=163.53.188.0/22
 add list=cnip address=163.53.240.0/22
 add list=cnip address=163.61.62.0/23
 add list=cnip address=163.61.113.0/24
+add list=cnip address=163.61.178.0/23
 add list=cnip address=163.125.0.0/16
 add list=cnip address=163.142.0.0/16
 add list=cnip address=163.177.0.0/16
