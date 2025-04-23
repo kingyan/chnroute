@@ -5315,7 +5315,6 @@ add list=cnip address=113.130.112.0/21
 add list=cnip address=113.132.0.0/14
 add list=cnip address=113.136.0.0/13
 add list=cnip address=113.192.40.0/23
-add list=cnip address=113.192.56.0/23
 add list=cnip address=113.194.0.0/15
 add list=cnip address=113.197.100.0/22
 add list=cnip address=113.200.0.0/15
