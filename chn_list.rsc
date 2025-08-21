@@ -821,7 +821,8 @@ add list=cnip address=101.237.128.0/20
 add list=cnip address=101.240.0.0/14
 add list=cnip address=101.245.0.0/22
 add list=cnip address=101.245.8.0/23
-add list=cnip address=101.245.16.0/22
+add list=cnip address=101.245.12.0/22
+add list=cnip address=101.245.16.0/21
 add list=cnip address=101.245.32.0/19
 add list=cnip address=101.245.64.0/18
 add list=cnip address=101.245.128.0/22
@@ -2839,6 +2840,7 @@ add list=cnip address=140.249.0.0/16
 add list=cnip address=140.250.0.0/16
 add list=cnip address=140.255.0.0/16
 add list=cnip address=143.20.66.0/24
+add list=cnip address=143.20.147.0/24
 add list=cnip address=143.64.0.0/16
 add list=cnip address=144.0.0.0/16
 add list=cnip address=144.7.0.0/17
@@ -2992,7 +2994,6 @@ add list=cnip address=163.223.173.0/24
 add list=cnip address=163.223.178.0/23
 add list=cnip address=163.228.0.0/16
 add list=cnip address=163.244.246.0/24
-add list=cnip address=165.101.71.0/24
 add list=cnip address=166.111.0.0/16
 add list=cnip address=167.139.0.0/16
 add list=cnip address=167.189.0.0/16
@@ -4131,6 +4132,7 @@ add list=cnip address=221.208.0.0/12
 add list=cnip address=221.224.0.0/12
 add list=cnip address=222.16.0.0/12
 add list=cnip address=222.35.0.0/16
+add list=cnip address=222.41.10.0/24
 add list=cnip address=222.42.115.0/24
 add list=cnip address=222.44.0.0/16
 add list=cnip address=222.45.8.0/21
