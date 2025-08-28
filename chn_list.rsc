@@ -1910,6 +1910,7 @@ add list=cnip address=115.31.64.0/22
 add list=cnip address=115.32.0.0/19
 add list=cnip address=115.32.32.0/21
 add list=cnip address=115.32.56.0/21
+add list=cnip address=115.32.64.0/19
 add list=cnip address=115.44.0.0/14
 add list=cnip address=115.48.0.0/12
 add list=cnip address=115.84.0.0/18
