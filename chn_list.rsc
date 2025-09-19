@@ -1314,6 +1314,7 @@ add list=cnip address=103.175.197.0/24
 add list=cnip address=103.177.28.0/23
 add list=cnip address=103.179.78.0/23
 add list=cnip address=103.180.108.0/23
+add list=cnip address=103.181.164.0/23
 add list=cnip address=103.181.234.0/24
 add list=cnip address=103.183.66.0/23
 add list=cnip address=103.183.122.0/23
@@ -2276,7 +2277,6 @@ add list=cnip address=119.18.234.0/24
 add list=cnip address=119.18.236.0/23
 add list=cnip address=119.18.239.0/24
 add list=cnip address=119.23.0.0/16
-add list=cnip address=119.27.64.0/18
 add list=cnip address=119.27.160.0/19
 add list=cnip address=119.28.28.0/24
 add list=cnip address=119.29.0.0/16
@@ -2689,7 +2689,6 @@ add list=cnip address=123.244.0.0/14
 add list=cnip address=123.249.0.0/17
 add list=cnip address=123.253.226.0/24
 add list=cnip address=123.254.96.0/21
-add list=cnip address=124.6.64.0/18
 add list=cnip address=124.14.1.0/24
 add list=cnip address=124.14.2.0/23
 add list=cnip address=124.14.5.0/24
@@ -3009,6 +3008,7 @@ add list=cnip address=161.189.0.0/16
 add list=cnip address=161.207.0.0/16
 add list=cnip address=162.14.0.0/16
 add list=cnip address=162.105.0.0/16
+add list=cnip address=162.141.4.0/24
 add list=cnip address=162.141.138.0/24
 add list=cnip address=163.0.0.0/16
 add list=cnip address=163.47.4.0/22
@@ -3025,7 +3025,7 @@ add list=cnip address=163.177.0.0/16
 add list=cnip address=163.179.0.0/16
 add list=cnip address=163.204.0.0/16
 add list=cnip address=163.223.173.0/24
-add list=cnip address=163.223.179.0/24
+add list=cnip address=163.223.178.0/23
 add list=cnip address=163.228.0.0/16
 add list=cnip address=163.244.246.0/24
 add list=cnip address=165.101.122.0/23
@@ -3798,7 +3798,7 @@ add list=cnip address=211.96.0.0/16
 add list=cnip address=211.97.0.0/17
 add list=cnip address=211.97.128.0/19
 add list=cnip address=211.97.160.0/21
-add list=cnip address=211.97.190.0/23
+add list=cnip address=211.97.176.0/20
 add list=cnip address=211.97.192.0/18
 add list=cnip address=211.98.0.0/16
 add list=cnip address=211.99.8.0/21
