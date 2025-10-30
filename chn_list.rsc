@@ -1972,6 +1972,7 @@ add list=cnip address=116.62.0.0/15
 add list=cnip address=116.66.36.0/24
 add list=cnip address=116.66.48.0/23
 add list=cnip address=116.66.53.0/24
+add list=cnip address=116.66.54.0/23
 add list=cnip address=116.66.98.0/24
 add list=cnip address=116.66.120.0/24
 add list=cnip address=116.66.123.0/24
@@ -3365,11 +3366,9 @@ add list=cnip address=203.8.28.0/23
 add list=cnip address=203.8.30.0/24
 add list=cnip address=203.12.91.0/24
 add list=cnip address=203.12.93.0/24
-add list=cnip address=203.12.95.0/24
 add list=cnip address=203.12.204.0/23
 add list=cnip address=203.13.80.0/23
 add list=cnip address=203.15.0.0/20
-add list=cnip address=203.25.48.0/24
 add list=cnip address=203.25.52.0/24
 add list=cnip address=203.25.208.0/20
 add list=cnip address=203.32.48.0/23
