@@ -1229,7 +1229,6 @@ add list=cnip address=103.132.212.0/23
 add list=cnip address=103.132.234.0/23
 add list=cnip address=103.133.128.0/23
 add list=cnip address=103.133.176.0/22
-add list=cnip address=103.135.100.0/24
 add list=cnip address=103.135.160.0/22
 add list=cnip address=103.135.192.0/23
 add list=cnip address=103.135.195.0/24
@@ -2783,7 +2782,7 @@ add list=cnip address=131.221.82.0/24
 add list=cnip address=132.232.0.0/16
 add list=cnip address=132.237.134.0/24
 add list=cnip address=134.175.0.0/16
-add list=cnip address=138.252.97.0/24
+add list=cnip address=138.252.96.0/23
 add list=cnip address=139.5.60.0/22
 add list=cnip address=139.9.0.0/17
 add list=cnip address=139.9.128.0/18
@@ -2907,10 +2906,6 @@ add list=cnip address=154.208.140.0/22
 add list=cnip address=154.208.144.0/20
 add list=cnip address=154.208.160.0/21
 add list=cnip address=154.208.172.0/23
-add list=cnip address=154.223.168.0/24
-add list=cnip address=154.223.179.0/24
-add list=cnip address=154.223.180.0/24
-add list=cnip address=154.223.182.0/24
 add list=cnip address=155.117.164.0/24
 add list=cnip address=155.126.176.0/23
 add list=cnip address=156.59.202.0/23
