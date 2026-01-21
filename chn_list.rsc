@@ -2922,7 +2922,7 @@ add list=cnip address=163.177.0.0/16
 add list=cnip address=163.179.0.0/16
 add list=cnip address=163.204.0.0/16
 add list=cnip address=163.223.178.0/23
-add list=cnip address=163.227.40.0/23
+add list=cnip address=163.227.40.0/24
 add list=cnip address=163.228.0.0/16
 add list=cnip address=163.244.246.0/24
 add list=cnip address=165.101.70.0/23
@@ -3172,7 +3172,10 @@ add list=cnip address=202.63.160.0/20
 add list=cnip address=202.65.96.0/24
 add list=cnip address=202.67.3.0/24
 add list=cnip address=202.69.4.0/23
-add list=cnip address=202.69.16.0/20
+add list=cnip address=202.69.16.0/21
+add list=cnip address=202.69.24.0/22
+add list=cnip address=202.69.28.0/23
+add list=cnip address=202.69.31.0/24
 add list=cnip address=202.72.112.0/20
 add list=cnip address=202.73.128.0/22
 add list=cnip address=202.73.240.0/20
