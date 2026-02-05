@@ -1294,6 +1294,7 @@ add list=cnip address=103.175.197.0/24
 add list=cnip address=103.177.28.0/23
 add list=cnip address=103.179.78.0/23
 add list=cnip address=103.180.108.0/23
+add list=cnip address=103.181.164.0/23
 add list=cnip address=103.181.234.0/24
 add list=cnip address=103.183.66.0/23
 add list=cnip address=103.183.122.0/23
